@@ -1,0 +1,21 @@
+{
+    "name": "wgg/trois",
+    "description": "这是一个测试",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wgg\\Trois\\": "src/Trois/Library"
+        }
+    },
+    "authors": [
+        {
+            "name": "wgg",
+            "email": "727935022@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4"
+    }
+}
