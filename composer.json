@@ -1,11 +1,11 @@
 {
-    "name": "wgg/trois",
+    "name": "wggzl/trois",
     "description": "这是一个测试",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Wgg\\Trois\\": "src/Trois/Library"
+            "Wggzl\\Trois\\": "src/Trois/Library"
         }
     },
     "authors": [
